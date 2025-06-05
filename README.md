@@ -1,7 +1,9 @@
 # 👋 Ciao sono Christopher!
 
-💻 Full Stack Web Developer Junior  
-🎯 Appassionato di sviluppo web e tecnologie 
+💻 Full Stack Web Developer Junior 
+
+🎯 Appassionato di sviluppo web e tecnologie
+
 🌍 Sono alla ricerca di lavoro
 
 ---
