@@ -23,7 +23,7 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristopherS24&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristopherS24&layout=compact&theme=dark)
 
 <!-- ## 📈 GitHub Stats
 
