@@ -1,10 +1,8 @@
-## Hi there 👋
-
-# 👋 Ciao! Sono Christopher Salinas
+# 👋 Ciao sono Christopher!
 
 💻 Full Stack Web Developer Junior  
-🎯 Appassionato di sviluppo web e sempre alla ricerca di nuove sfide  
-🌍 Aperto a opportunità lavorative
+🎯 Appassionato di sviluppo web e tecnologie 
+🌍 Sono alla ricerca di lavoro
 
 ---
 
