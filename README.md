@@ -2,9 +2,9 @@
 
 💻 Full Stack Web Developer Junior 
 
-🎯 Appassionato di sviluppo web e tecnologie
+🎯 Appassionato di sviluppo web, tecnologie ed innovazione
 
-🌍 Sono attivamente alla ricerca di lavoro e nuove oppurtunità
+🌍 Sono attivo alla ricerca di lavoro e di nuove oppurtunità
 
 ---
 
@@ -34,7 +34,7 @@
 
 ---
 
-⭐ Grazie per aver visitato il mio profilo!
+⭐ Grazie per aver visitato il mio profilo! ⭐
 
 
 <!--
